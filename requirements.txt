@@ -1,0 +1,7 @@
+# Python runtime deps for src/*.py
+# Install with: pip install -r requirements.txt
+# Assuming ROS 2 Jazzy is installed system-wide (rclpy, mavros_msgs, etc. come from apt).
+
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
